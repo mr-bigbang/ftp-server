@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetworkProtocols:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetworkProtocols_jar</output-path>
+    <root id="archive" name="NetworkProtocols.jar">
+      <element id="module-output" name="de.mr_bigbang.net.ftp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
